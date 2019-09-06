@@ -1,1 +1,2 @@
 # ProyectoConjunto_KSFigueroa
+Este trabajo lo hicimos en base a Github y Gitkraken, fue un trabajo colaborativo entre Kitzia Sarahi Figueroa Monroy y Ana Paola Villegas Rivas. Fue mas que nada para aprender a hacer commits, pull y push desde GitKraken, además de trabajar en markdown. 
